@@ -27,4 +27,4 @@ Make sure you have Logisim and Python 3 installed.
 
 * **Nazmul Hossain Nihal** - [nazmulhossainnihal](https://github.com/nazmulhossainnihal)
 * **Kazi Noshin Jahin Omar**
-* **Mikhail Skorikov*
+* **Mikhail Skorikov**
